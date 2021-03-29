@@ -1,5 +1,5 @@
 # FormulaRouge
-Playingcards.io table template
+Playingcards.io table template \n
 Download formularouge.pcio
 Go to https://playingcards.io/game/standard-deck
 Choose Start a blank room
