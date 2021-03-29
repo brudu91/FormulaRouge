@@ -1,7 +1,7 @@
 # FormulaRouge
 Playingcards.io table template 
 
-Download formularouge.pcio
+Download formula-rouge.pcio
 
 Go to https://playingcards.io/game/standard-deck
 
